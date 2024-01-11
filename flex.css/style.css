@@ -1,0 +1,33 @@
+.container {
+  background-color: black;
+  margin: 10px;
+  display: flex;
+}
+.container1 {
+  background-color: red;
+  margin: 10px;
+  width: 30px;
+  font-size: medium;
+  text-align: center;
+}
+.container2 {
+  background-color: aqua;
+  margin: 10px;
+  width: 30px;
+  font-size: medium;
+  text-align: center;
+}
+.container3 {
+  background-color: rgb(128, 11, 89);
+  margin: 10px;
+  width: 30px;
+  font-size: medium;
+  text-align: center;
+}
+.container4 {
+  background-color: chocolate;
+  margin: 10px;
+  width: 30px;
+  font-size: medium;
+  text-align: center;
+}
